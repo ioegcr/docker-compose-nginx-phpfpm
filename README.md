@@ -12,3 +12,8 @@ Notice: [Use this repository if you're looking for PHP 8 with Xdebug 3](https://
 * KISS principle (Keep It Simple, Stupid)
 
 [Blog-Post: Dockerize your PHP application with Nginx and PHP8-FPM](https://marcit.eu/en/2021/04/28/dockerize-webserver-nginx-php8/)
+
+## Run
+```
+docker-compose up
+```
